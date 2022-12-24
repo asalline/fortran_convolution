@@ -1,1 +1,1 @@
-2D convolution implemented in Fortran 95
+# 2D convolution implemented in Fortran 95
