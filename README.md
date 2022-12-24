@@ -1,4 +1,4 @@
-# 2D convolution implemented in Fortran 95
+# 2D convolution implemented in Fortran 95 and Python from scratch
 
 The convolution is mathematical background in image processing and image filters. 
 It uses elementwise-multiplication and addition to change picture with given filter.
