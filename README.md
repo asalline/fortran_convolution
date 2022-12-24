@@ -19,6 +19,7 @@ To use my scripts do the following:
 ### Command to compile and run the scripts
 `python3 img_to_matrix.py && **your Fortran compiler here** -c kernels.f95 conv2d.f95 && **your Fortran compiler here** kernels.o conv2d.o && ./a.out && python3 mat_to_image.py`
 
+#### Useless information
 **Author:** asalline
 
 **year:** 2022
